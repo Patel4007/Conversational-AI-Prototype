@@ -1,0 +1,42 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "Hello", "Hay", "good morning", "good evening", "hey there", "good afternoon", ],
+     "responses": ["Hello", "Hi", "Hi there", "Hey! How are you ?", "good morning", "good evening", "good afternoon"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye",  "good by", "cee you later", "bye", "goodbye", "have a nice day", "see you around", "bye bye" ],
+     "responses": ["Bye", "See you later", "Have a nice day", "Bye! we will talk again"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!", ""]
+    },
+    {"tag": "about",
+     "patterns": ["Who are you?", "What are you?", "Who you are?" ],
+     "responses": ["I am Patel, your bot assistant", "I'm Patel, an Artificial Intelligent bot"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?"],
+    "responses": ["You can call me Patel.", "I'm Patel!", "Just call me Patel"]
+    },
+    {"tag": "help",
+    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "I needed some help", "I need some help", "What can you do for me?", "I need support", 
+	"I want help", "I need help", "support me please", "Hi, can you help me?"],
+    "responses": ["Tell me how can I assist you", "Tell me your problem to assist you", "Yes Sure, How can I help you", "Sure, how may I help you ?" ]
+    },
+	{
+	 "tag": "friends",
+     "patterns": ["I want to be your friend", "are we best friends", "are we still friends", "let's be friends", "we are friends", "are we friends", "we are best friends ever"],
+     "responses": ["Of course, we are best friends", "we are friends", "Yes, you are my best friend"]
+	},
+	{
+	"tag": "joy",
+    "patterns": ["you are cool", "you are so cool", "you are so helpful", "you are too good", "you're awesome", "you are great", "you know so much", "you are clever", "you are really smart"],
+    "responses": ["Thanks. I am happy for you" "Glad you liked it"]
+	},
+    {"tag": "hobby",
+    "patterns": ["what do you do for fun", "what are your hobbies?", "tell me about your hobby", "do you have a hobby", "what about your hobby", "what do you like?", "what do you like"],
+    "responses": ["I like to spend my time surfing the internet and helping users in anyway I can"]
+    }
+]
+}
