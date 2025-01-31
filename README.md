@@ -2,6 +2,10 @@
 
 The Conversational AI Chatbot Prototype is a voice-based AI chatbot designed to enable natural and seamless interactions between users and the system. It leverages natural language understanding (NLU) and speech recognition to provide a robust and intelligent conversational experience.
 
+## Project Architecture
+
+![Architecture Diagram](Project%20Diagrams/Activity%20Diagram.png)
+
 ## Features
 
 **Voice-Based Interaction**: Users can communicate with the chatbot using voice input.
