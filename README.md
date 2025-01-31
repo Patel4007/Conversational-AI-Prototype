@@ -16,6 +16,11 @@ The Conversational AI Chatbot Prototype is a voice-based AI chatbot designed to 
 
 **Context Awareness**: Maintains conversation context for meaningful interactions.
 
+## Project Output
+
+<img src="Project_Output/output_1.png" width="400" height="300">
+<img src="Project_Output/output_2.png" width="400" height="300">
+
 ## Required Libraries
 
 TensorFlow / TFLearn (for deep learning-based NLP models)
