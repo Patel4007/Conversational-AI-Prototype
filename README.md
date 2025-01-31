@@ -18,8 +18,8 @@ The Conversational AI Chatbot Prototype is a voice-based AI chatbot designed to 
 
 ## Project Output
 
-<img src="Project_Output/output_1.png" width="400" height="300">
-<img src="Project_Output/output_2.png" width="400" height="300">
+<img src="Project_Output/output_1.png" width="500" height="280">
+<img src="Project_Output/output_2.png" width="500" height="280">
 
 ## Required Libraries
 
