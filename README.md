@@ -4,7 +4,7 @@ The Conversational AI Chatbot Prototype is a voice-based AI chatbot designed to 
 
 ## Project Architecture
 
-![Architecture Diagram](Project%20Diagrams/Activity%20Diagram.png)
+![Architecture Diagram](Project_Diagrams/Activity%20Diagram.png)
 
 ## Features
 
