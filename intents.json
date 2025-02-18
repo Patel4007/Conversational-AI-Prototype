@@ -1,6 +1,6 @@
 {"intents": [
     {"tag": "greeting",
-     "patterns": ["Hi", "Hey", "Hello", "Hay", "good morning", "good evening", "hey there", "good afternoon", ],
+     "patterns": ["Hi", "Hey", "Hello", "Hay", "good morning", "good evening", "hey there", "good afternoon"],
      "responses": ["Hello", "Hi", "Hi there", "Hey! How are you ?", "good morning", "good evening", "good afternoon"]
     },
     {"tag": "goodbye",
